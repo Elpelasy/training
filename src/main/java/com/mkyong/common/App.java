@@ -12,6 +12,7 @@ import com.mkyong.dbservices.StockService;
 @ComponentScan(basePackageClasses = StockService.class)
 
 //Start the application
+// Another comment 
 public class App 
 {
     public static void main( String[] args )
