@@ -13,7 +13,7 @@ import com.mkyong.dbservices.StockService;
 
 //Start the application
 // conflict
-
+// Another comment 
 public class App 
 {
     public static void main( String[] args )
