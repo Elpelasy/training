@@ -12,6 +12,8 @@ import com.mkyong.dbservices.StockService;
 @ComponentScan(basePackageClasses = StockService.class)
 
 //Start the application
+// conflict
+
 public class App 
 {
     public static void main( String[] args )
