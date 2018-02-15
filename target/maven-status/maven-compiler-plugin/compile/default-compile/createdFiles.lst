@@ -1,0 +1,8 @@
+com\mkyong\persistence\HibernateUtil.class
+com\mkyong\dbservices\StockService.class
+com\mkyong\common\App.class
+com\mkyong\controller\SearchController.class
+com\mkyong\entity\SearchCriteria.class
+com\mkyong\entity\AjaxResponseBody.class
+com\mkyong\entity\Stock.class
+com\mkyong\controller\IndexController.class
