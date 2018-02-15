@@ -10,6 +10,8 @@ import com.mkyong.dbservices.StockService;
 @SpringBootApplication
 @ComponentScan(basePackageClasses = SearchController.class)
 @ComponentScan(basePackageClasses = StockService.class)
+
+//Start the application
 public class App 
 {
     public static void main( String[] args )
