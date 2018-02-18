@@ -15,6 +15,7 @@ import com.mkyong.dbservices.StockService;
 // conflict
 // Another comment 
 // branch 1 modefied
+// to be cherry picked
 public class App 
 {
     public static void main( String[] args )
